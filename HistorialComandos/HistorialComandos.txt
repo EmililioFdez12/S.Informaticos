@@ -1,0 +1,156 @@
+7 directories, 6 files
+root@PC03:/home/emilio# history
+    1  nano hola.txt
+    2  clear
+    3  ls -l
+    4  cat hola.txt
+    5  cd SI/
+    6  cd ..
+    7  cd SI/
+    8  mkdir ../HTML
+    9  ls -l
+   10  ls
+   11  mkdir Ofimatica
+   12  mkdir LLMM
+   13  ls
+   14  cd ..
+   15  ls
+   16  cleaR
+   17  clear
+   18  cd si
+   19  cd SI/
+   20  ls ../../
+   21  clear
+   22  cd ..
+   23  cd SI/
+   24  ls
+   25  rmdir LLMM/
+   26  ls
+   27  mkdir Ondas
+   28  cd Ofimatica/
+   29  cd ..
+   30  clear
+   31  mkdir Radio
+   32  touch hola2
+   33  rmdir Radio/
+   34  mkdir Radio
+   35  cd Radio/
+   36  touch hola2
+   37  cd ..
+   38  rm -fr Radio/
+   39  mkdir SI
+   40  cd SI/
+   41  mkdir Linux
+   42  cd Linux/
+   43  touch Linux.txt
+   44  nano Linux.txt
+   45  cd ..
+   46  mkdir Ofimatica
+   47  cd Ofimatica/
+   48  touch Ofimatica.txt
+   49  nano Ofimatica.txt
+   50  cd ..
+   51  mkdir Redes
+   52  cd Redes/
+   53  touch Representacion de la Informacion
+   54  ls
+   55  rm Representacion
+   56  rm de
+   57  rm la
+   58  ls
+   59  rm Informacion
+   60  touch "Representacion de la Informacion.txt"
+   61  nano Representacion\ de\ la\ Informacion.txt
+   62  cd ..
+   63  ls
+   64  cd Redes/
+   65  ls
+   66  rm
+   67  mkdir SI
+   68  history
+   69  clear
+   70  cd SI/
+   71  cd Redes/
+   72  ls
+   73  rm Representacion\ de\ la\ Informacion.txt
+   74  ls
+   75  touch Redes.txt
+   76  nano Redes.txt
+   77  cd ..
+   78  mkdir Representacion_de_la_Informacion
+   79  cd Representacion_de_la_Informacion/
+   80  touch Representacion_de_la_Informacion.txt
+   81  nano Representacion_de_la_Informacion.txt
+   82  cd ..
+   83  mkdir Sistemas Operativos
+   84  cd Sistemas Operativos/
+   85  cd Sistemas/
+   86  cd ..
+   87  ls
+   88  rm Sistemas/
+   89  rmdir Sistemas/
+   90  mkdir SistemasOperativos
+   91  cd SistemasOperativos/
+   92  touch SistemasOperativos.txt
+   93  nano SistemasOperativos.txt
+   94  cd ..
+   95  mkdir Windows
+   96  cd Windows/
+   97  touch Windows.txt
+   98  nano Windows.txt
+   99  cd ..
+  100  apt -install tree
+  101  apt --install tree
+  102  apt-get install tree
+  103  sudo apt get update
+  104  tree
+  105  apt get update
+  106  clear
+  107  ls
+  108  sudo apt-get install tree
+  109  tree
+  110  apt install tree
+  111  snap install tree
+  112  tree
+  113  rmdir pruebas/
+  114  rm -fr pruebas/
+  115  ls
+  116  tree
+  117  clear
+  118  tree
+  119  history > ListadodeComandos.txt
+  120  ls
+  121  nano ListadodeComandos.txt
+  122  history
+  123  cat ListadodeComandos.txt
+  124  mkdir SI
+  125  cd SI/
+  126  mkdir Linux Ofimatica Redes "Representacin de la Informacion" "Sistemas Operativos" Windows
+  127  cd Linux/
+  128  touch Linux.txt
+  129  nano Linux.txt
+  130  cd ..
+  131  cd Ofimatica/
+  132  touch Ofimatica.txt
+  133  nano Ofimatica.txt
+  134  cd ..
+  135  cd Redes/
+  136  touch Redes.txt
+  137  nano Redes.txt
+  138  cd ..
+  139  touch "Representacin de la Informacion.txt"
+  140  rm Representacin\ de\ la\ Informacion.txt
+  141  cd Representacin\ de\ la\ Informacion/
+  142  touch "Representacion de la Informacion.txt"
+  143  nano Representacion\ de\ la\ Informacion.txt
+  144  cd ..
+  145  cd Sistemas\ Operativos/
+  146  touch "Sistemas Operativos"
+  147  nano Sistemas\ Operativos
+  148  cd ..
+  149  cd Windows/
+  150  touch Windows.txt
+  151  nano Windows.txt
+  152  cd ..
+  153  tree
+  154  history

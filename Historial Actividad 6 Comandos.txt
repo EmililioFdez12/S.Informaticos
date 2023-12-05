@@ -1,0 +1,123 @@
+ 552  sudo groupadd alumnos
+  553  sudo useradd -g alumnos -d /home/pedro -m -s /bin/bash pedro
+  554  sudo passwd pedro
+  555  cat /etc/passwd
+  556  mkdir /home/carpeta_pedro
+  557  sudo usermod -d /home/carpeta_pedro
+  558  sudo userdel -r pedro
+  559  usermod -d /home/carpeta_pedro pedro
+  560  clear
+  561  cat users
+  562  cat /etc/passwd
+  563  useradd -g alumnos -d /home/pedro -m -s /bin/bash pedro
+  564  cat /etc/passwd
+  565  sudo passwd pedro
+  566  cat /etc/passwd
+  567  usermod -d /home/carpeta_pedro pedro
+  568  userdel -r pedro
+  569  cat /etc/passwd
+  570  clear
+  571  groupadd alumnos2
+  572  groupadd profesores
+  573  groupmod -g 2000 profesores
+  574  cat /etc/group
+  575  adduser pepe
+  576  userdel pepe
+  577  adduser pepe
+  578  adduser pepe profesores
+  579  adduser juan profesores
+  580  cat /etc/passwd
+  581  deluser juan profesores
+  582  groupdel profesores
+  583  cat /etc/group
+  584  history
+  585  cd
+  586  cat /etc/passwd
+  587  useradd prueba
+  588  useradd -g alumnos -d /home/pedro -m -s /bin/bash pedro
+  589  group add alumnos
+  590  useradd -g alumnos -d /home/pedro -m -s /bin/bash pedro
+  591  apt install deb name
+  592  group add alumnos
+  593  sudo apt install deb name
+  594  sudo dpkg -i deb name
+  595  passwd emilio
+  596  cat /bin/bash
+  597  clear
+  598  cat emilio
+  599  cat bin/bash
+  600  cat /bin/bash
+  601  clear
+  602  cat /bin/sh
+  603  clearclear
+  604  clear
+  605  sudo su
+  606  ls -l
+  607  cd
+  608  groupadd picasso
+  609  groupadd 1dam
+  610  /etc/group
+  611  cat /etc/group
+  612  groupdel picasso
+  613  cat /etc/group
+  614  useradd alumndam
+  615  cat /etc/pswd
+  616  cat /etc/passwd
+  617  clear
+  618  usseradd -g 1dam -d /home/emilio emiliof
+  619  useradd -g 1dam -d /home/emilio emiliof
+  620  cat /etc/psswd
+  621  cat /etc/passwd
+  622  clear
+  623  groupadd paco
+  624  useradd -g paco paco
+  625  cat /etc/passwd
+  626  usermod -g 1dam
+  627  usermod -g 1dam alumndam
+  628  useradd -d /home/Jorge Jorge
+  629  passwd -x 100 Jorge
+  630  passwd -n 10
+  631  passwd -n 10 Jorge
+  632  passwd -w 2 Jorge
+  633  clear
+  634  useradd -d /home/Nico Nico
+  635  passwd -x 100 Nico
+  636  passwd -n 10 Nico
+  637  passwd -w 2 Nico
+  638  cd
+  639  nano helloworld
+  640  chmod +rw helloworld
+  641  ls -l helloworld
+  642*
+  643  ls -l helloworld
+  644  tree
+  645  cd /alumndam
+  646  cd /alumndam/
+  647  cat /etc/usr
+  648  cat /etc/passwd
+  649  cd /home/alumndam
+  650  de /home/alumndam
+  651  cd /home/alumndam
+  652  cat /home/alumndam
+  653  cd /bin/sh
+  654  cat /bin/sh
+  655  clear
+  656  cat /etc/passwd
+  657  cd /home
+  658  cd /alumndam
+  659  cd ..
+  660  chmod 755 /home/alumndam
+  661  userdel alumndam
+  662  groupdel 1dam
+  663  userdel emiliof
+  664  groupdel 1dam
+  665  userdel alumndam
+  666  useradd -g root/ -d home/alumndam -m -s /bin/bash alumndam
+  667  useradd -g root -d home/alumndam -m -s /bin/bash alumndam
+  668  useradd -g alumndam -d home/alumndam -m -s /bin/bash alumndam
+  669  useradd -g root -d /home/alumndam -m -s /bin/bash alumndam
+  670  cd /home/alumndam/
+  671  chmod 754 /home/alumndam
+  672  ls -l
+  673  cd ..
+  674  ls -l
